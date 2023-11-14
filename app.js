@@ -65,4 +65,24 @@ var var_text = "Hi text"
 // string = String(100);
 // console.log(string);
 
+// For looplar
+
+// Buyerda i ga 0 ni tenglashtirib olayapmiz va taqqoslayapmiz yani 0 kichikmi 10 dan diyapmiz ha kichik digan true qaytayapti
+// va i yani 0 ga 1 qo'shayapmiz shuningdek bu xodisa i 10 ga teng bo'lmaguncha takrorlanadi
+// for(let i = 0; i < 10; i++){
+//     console.log("hi");
+// }
+
+// amalyot-----
+
+// Bu o'zgaruvchining uzunligini sonlarda ifodalaydi
+// length 
+
+
+// Bu yerda names Array dan malumotlarni olishni ko'rib chiqdik
+// const names = ["Abdulaziz","Bekhruz","Hamzabek"];
+// for(let i = 0; i < names.length i++){
+//     console.log(names[i]);
+// }
+
 
