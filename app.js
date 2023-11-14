@@ -37,3 +37,15 @@ var var_text = "Hi text"
 // Bu symbol bu objectlar bilan ishlatilinadi
 // Symbol 
 
+
+
+// Solishtirish opiratori
+
+// Kuchsiz taqqoslash 
+// = teng 
+// == tengmi 
+// != teng emasmi
+
+// Kuchli taqqoslash
+// === typelari ham tingmi
+// !== typelari ham tingmi emasmi
