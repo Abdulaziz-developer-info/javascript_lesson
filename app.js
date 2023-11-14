@@ -86,3 +86,31 @@ var var_text = "Hi text"
 // }
 
 
+// while loop
+
+// Bu so'zlarni hammasini katta hariflarda qilib beradi.
+// toUpperCase
+
+// const names = ["Abdulaziz","Bekhruz","Hamzabek"];
+// let i = 0;
+// while (i < names.length){
+//     console.log(names[i].toUpperCase);
+//     i++
+// }
+
+
+
+
+// do while loop
+
+// Bu yerda birinchi bajarib keyin tekshiradi
+// let i = 0;
+// do{
+//     console.log(names[i].toUpperCase);
+//     i++
+// }
+// while (i < names.length)
+
+
+
+
