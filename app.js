@@ -49,3 +49,20 @@ var var_text = "Hi text"
 // Kuchli taqqoslash
 // === typelari ham tingmi
 // !== typelari ham tingmi emasmi
+
+
+// Turlarni o'zgartirish
+
+// Bu function o'zgaruvchilarni typeni aniqlab beradi
+// typeof
+
+// Bu yerda natija o'zgaruvchisi type string edi oshani biz numberga o'girdik 
+// let natija = "100";
+// natija_number = Number(natija);
+// console.log(natija_number + 1);
+
+// Bu yerda esa numberni stringa o'girdik
+// string = String(100);
+// console.log(string);
+
+
